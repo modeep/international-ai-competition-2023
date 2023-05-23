@@ -1,1 +1,1 @@
-# international-ai-competition-2023
+international-ai-competition-2023
